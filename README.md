@@ -6,7 +6,7 @@
 
 ## Coaching-Institute-Dashboard Screenshot
 
-![Coaching Institute Dashboard](Coaching%20Institute%20Dashboard(1).PNG)
+![Coaching Institute Dashboard]([Coaching%20Institute%20Dashboard(1).PNG](https://github.com/jyotisharma-cyber/Coaching-Institute-Dashboard/blob/main/Coaching%20Institute%20Dashboard.PNG))
 
 ---
 
