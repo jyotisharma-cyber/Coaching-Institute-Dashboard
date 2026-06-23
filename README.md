@@ -306,6 +306,7 @@ This dashboard enables coaching institutes to:
 **Data Analyst | Power BI Developer**
 
 🔗 GitHub: https://github.com/jyotisharma-cyber
+🔗 LinkedIN :- https://www.linkedin.com/in/jyoti-kashyap-7a0a71365/
 
 ---
 
